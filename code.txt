@@ -1,0 +1,9 @@
+图书 00001 9787508637792 大国的兴衰 中信出版社 保罗·肯尼迪 实体书 书架 无 0
+图书 00002 9787200076448 乡土中国 北京出版社 费孝通 实体书 书架 无 0
+图书 00006 9782251003252 伯罗奔尼撒战争史 商务印书馆 修昔底德 电子书 /Users/linhailan1/Desktop/林海斓/学习（其他）/读史读经典/读史读经典精读书目（20本全）/03伯罗奔尼撒战争史.pdf 无 0
+图书 00003 9787101054491 万历十五年 中华书局 黄仁宇 实体书 书架 无 0
+图书 00004 9787530725481 史记 中华书局 司马迁 电子书 /Users/linhailan1/Desktop/林海斓/学习（其他）/读史读经典/读史读经典精读书目（20本全）/01史记.pdf 无 0
+图书 00005 9787801068507 资治通鉴 中华书局  司马光 电子书 /Users/linhailan1/Desktop/林海斓/学习（其他）/读史读经典/读史读经典精读书目（20本全）/02资治通鉴.pdf 无 0
+论文 00009 遗传学：美洲蟑螂的基因组 19 ShengLi  ShimingZhu  QiangqiangJia  DongweiYuan  ChonghuaRen   KangLi   SuningLiu  YingyingCui  HaigangZhao  YanghuiCao  GangqiFang  DaqiLi  XiaomingZhao  JianzhenZhang  QiaoyunYue  YongliangFan  XiaoqiangYu  QiliFeng  ShuaiZhan  Nature 2018-03-21  电子书  https://www.nature.com/articles/s41467-018-03281-1  无  0  
+论文 00007 史梦婕是个大坏蛋 1 史梦婕 NATURE 2018-03-22 实体书 宿舍 无 0
+论文 00008 火星大气和不稳定演化 1 B.M.Jakosky Science 2015-11-06  电子书  http://science.sciencemag.org/content/350/6261/aad0210 无 0
